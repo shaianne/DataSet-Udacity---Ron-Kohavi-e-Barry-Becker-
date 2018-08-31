@@ -1,0 +1,7 @@
+- Foi desenvolvido na linguagem R porque é a linguagem que tenho conhecimento. 
+- Foram utilizadas as seguintes variáveis: renda, idade, classtrb, sexo,  ocupacao  com o metodo classificação
+- Ao analisar as variáveis acima foi identificado que seriam variáveis candidatas para treinar o modelo
+- Foi realizado o tratamento dos dados seperando variáveis categorias de numéricas e foi identificado que a variável idade entre 30 e 60 anos 
+o percentual individuos que recebem acima de $50k é grande e para a variável ocupação alguns cargos se sobressaem com a renda maior que $50k
+- A acuracidade do modelo após o treinamento e validação ficou em 81,33333333333333%
+
